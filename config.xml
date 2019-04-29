@@ -5,7 +5,7 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id ="com.phonegap.app5"
 version = "1.0.0">
 
-<name>app5 Advertencias del Dispositivo      </name>
+<name>app5 Advertencias del Dispositivo</name>
 
 <description>
 Aplicacion que realiza la vibracion y beep del Dispositivo
@@ -16,9 +16,9 @@ Blanca Lidia Arias Rojas
 </author>
 
 <!--personaliza la aplicacion y plataforma -->
-<preference name="orientation"    value="default"/>
-<!--preference name="orientation"   value="portrait"/>
-<preference name="orientation"   value="landscape"/> -->
+<!--preference name="orientation"    value="default"/> -->
+<preference name="orientation"   value="portrait"/>
+<!--preference name="orientation"   value="landscape"/> -->
 <preference name="target-device"   value="universal"/>
 <preference name="fullscreen"     value="true"/>
 <preference name="android-installLocation"  value="auto"/>
